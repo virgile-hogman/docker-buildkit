@@ -1,0 +1,5 @@
+ARG BASE_IMAGE=bk1
+FROM ${BASE_IMAGE}
+
+RUN echo "Image2"
+
